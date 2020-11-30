@@ -29,5 +29,5 @@ run active_users.py
 
 ## Meta 
 * Author: Mira Fazzah
-  * sole author for all files under /CollabFiltering 
+  * sole author for all .py files, including matching algorithm found in /CollabFiltering 
   * everything else was done in collaboration with teammates 
