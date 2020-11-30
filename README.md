@@ -1,6 +1,7 @@
 # Eagler
 
 ## Eagler 
+Campus-specific dating application. 
 
 ## Usage
 ## Installation
