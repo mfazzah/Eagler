@@ -1,5 +1,6 @@
-To install 
-Requirments:
+## Installation Instructions 
+
+Requirements:
 - php enabled web sever
 - Zip file of github repository
 - mySQL database 
