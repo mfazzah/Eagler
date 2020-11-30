@@ -3,7 +3,6 @@
 ## Eagler 
 Campus-specific dating application. 
 
-## Usage
 ## Installation
 
 *Requirements:*
